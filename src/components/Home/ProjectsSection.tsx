@@ -36,7 +36,7 @@ export default function ProjectsSection() {
 	return (
 		<section
 			id='projects-section'
-			className='flex flex-col lg:flex-row lg:items-center justify-between lg:h-[80vh] mt-28 lg:mt-auto lg:ml-28'>
+			className='flex flex-col lg:flex-row lg:items-center justify-between lg:h-[60vh] mt-28 lg:mt-auto lg:ml-28'>
 			<h1 className='text-4xl flex flex-col ml-8 lg:ml-auto lg:text-6xl font-bold text-black'>
 				Polkassembly <span className='bg-pa-pink w-fit rounded-xl text-white p-2'>Projects</span>
 			</h1>
